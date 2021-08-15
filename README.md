@@ -1,2 +1,3 @@
 # department-of-ebikes
-this section describes the ebike stuff
+## Quick Start Guide for data logger
+## things
