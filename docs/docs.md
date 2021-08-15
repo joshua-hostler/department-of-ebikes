@@ -1,1 +1,1 @@
-Documents produced during my internship
+Documents produced during my internship at the DOE Arctic Energy Office.
