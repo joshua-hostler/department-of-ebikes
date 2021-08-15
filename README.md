@@ -1,3 +1,2 @@
-# department-of-ebikes
-## Quick Start Guide for data logger
-## things
+# Quick Start Guide
+`code?`
